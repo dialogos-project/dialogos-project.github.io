@@ -6,7 +6,7 @@ Most tools for developing dialogue systems are pretty complicated, and require e
 
 DialogOS has been used in a variety of projects for university and high-school students, see e.g. [here](http://www.debacher.de/wiki/DialogOS) and [here](http://www.coli.uni-saarland.de/courses/lego-04/). It comes with out-of-the-box speech recognition and synthesis, and is seamlessly integrated with Lego Mindstorms.
 
-<img src="http://deacademic.com/pictures/dewiki/68/DialogOS.jpg" width="500" />
+<img src="images/DialogOS.jpg" width="500" />
 
 
 # Getting started
