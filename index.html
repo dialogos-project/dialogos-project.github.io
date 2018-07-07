@@ -1,0 +1,28 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>Browser language selection</title>
+
+
+<script type="text/javascript">
+// detect preferred browser language
+var language = navigator.language || navigator.browserLanguage; //for IE
+
+if (language.indexOf('de') > -1) {
+  document.location.href = '/de/index.html';
+} else {
+  // default language is English
+  document.location.href = '/en/index.html';
+}
+</script>
+
+</head>
+
+<body>
+You have Javascript turned off. Please turn it on and reload this
+page, or go directly to the DialogOS website in
+<ul>
+  <li><a href="en/index.html">English</a></li>
+  <li><a href="de/index.html">German</a></li>
+</ul>
+
+</body> </html>
