@@ -1,3 +1,8 @@
+---
+lang: en
+page: index
+---
+
 # The DialogOS dialogue system
 
 DialogOS is a tool for developing dialogue systems, like Apple Siri, Google Home, or Amazon Echo. The user of a dialogue system speaks questions or commands into a microphone; the dialogue system then performs some actions and speaks back to the user.

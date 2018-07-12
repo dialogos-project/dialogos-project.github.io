@@ -1,0 +1,9 @@
+
+#mydownloads { position: absolute; width: 210px; z-index: 10; bottom: -40px; right: 0; height: 70px;  }
+
+#language_buttons { position: absolute; width: 210px; z-index: 10; bottom: -40px; left: 10px; height: 70px;  }
+
+.dllinkR { display: block; float: right; overflow: hidden; margin-top: +5px ; }
+
+.dllinkL { display: block; float: left; overflow: hidden; margin-top: +5px ; }
+

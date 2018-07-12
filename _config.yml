@@ -1,8 +1,11 @@
 theme: jekyll-theme-slate
 
 title: DialogOS
-description: Simple and extensible dialogue system with Lego integration
+description: Simple. Extensible. Batteries (and Lego) included.
 
 github:
   repository_url: https://github.com/coli-saar/dialogos
+  zip_url: /dialogos.zip
+  
+show_downloads: "true"
 

@@ -15,7 +15,7 @@ sudo bundle install
 Then you can compile the website to HTML and view it like this:
 
 ```
-exec bundle jekyll serve
+bundle exec jekyll serve
 ```
 
 

@@ -1,3 +1,8 @@
+---
+lang: de
+page: index
+---
+
 # Das DialogOS-Dialogsystem
 
 DialogOS ist ein Programm, mit dem man seine eigenen Dialogsysteme entwickeln kann, ähnlich zu Apple Siri, Google Home oder Amazon Echo. Der Benutzer eines Dialogsystems spricht Fragen oder Kommandos in sein Mikrofon; das Dialogsystem führt dann Handlungen aus und antwortet dem Benutzer.
