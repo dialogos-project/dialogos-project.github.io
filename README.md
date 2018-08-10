@@ -1,4 +1,6 @@
-# Website for DialogOS (www.dialogos.app)
+# Website for [DialogOS](https://github.com/dialogos-project/dialogos) (www.dialogos.app)
+
+**Please report problems with the webpage on the [DialogOS issue tracker](https://github.com/dialogos-project/dialogos/issues)**
 
 This is the main website for DialogOS. It is available both in English and German. The preferred browser language is automatically determined by some Javascript in `index.html`, and the user is then redirected to the desired language.
 
