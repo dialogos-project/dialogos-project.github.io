@@ -7,3 +7,12 @@
 
 .dllinkL { display: block; float: left; overflow: hidden; margin-top: +5px ; }
 
+a.dllinkL:hover { text-decoration: underline }
+
+.download_link { color: white }
+
+a.download_link:hover {color: white}
+
+.btn-primary:hover {
+    background-color: #347bf6 !important;
+}
