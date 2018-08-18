@@ -11,5 +11,5 @@ show_downloads: "true"
 
 release:
   tag: v2.0.0
-  version: 2_0_RC
-  candidate: "true"
+  version: v2.0.0
+  candidate: "false"
