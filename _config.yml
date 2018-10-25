@@ -3,12 +3,12 @@ theme: jekyll-theme-slate
 title: DialogOS
 
 github:
-  repository_url: https://github.com/coli-saar/dialogos
+  repository_url: https://github.com/dialogos-project/dialogos
   zip_url: /dialogos.zip
   
 show_downloads: "true"
 
 
 release:
-  tag: v2.0.0
-  version: v2_0_0
+  tag: v2.0.1
+  version: "2_0_1"
