@@ -5,10 +5,10 @@ title: DialogOS
 github:
   repository_url: https://github.com/dialogos-project/dialogos
   zip_url: /dialogos.zip
-  
+
 show_downloads: "true"
 
 
 release:
-  tag: v2.0.1
-  version: "2_0_1"
+  tag: v2.0.2
+  version: "2_0_2"
