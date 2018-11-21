@@ -10,5 +10,5 @@ show_downloads: "true"
 
 
 release:
-  tag: 2.0.2
-  version: "2_0_2"
+  tag: 2.0.3
+  version: "2_0_3"
