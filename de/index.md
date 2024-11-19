@@ -37,3 +37,7 @@ DialogOS war ursprünglich ein kommerzielles Dialogsystem, das von der CLT Sprac
 
 Anders als die kommerzielle Version - die nur unter Windows verwendet werden konnte - läuft die Open-Source-Version von DialogOS unter Windows, MacOS und Linux.
 
+# Danke!
+
+Wir danken der ej-technologies GmbH für die Überlassung ihres Multi-Platform-Installer-Builders
+[![Install4J](https://www.ej-technologies.com/images/product_banners/install4j_medium.png)](https://www.ej-technologies.com/install4j). 

@@ -33,3 +33,7 @@ Developers should check out the [Wiki](https://github.com/coli-saar/dialogos/wik
 DialogOS was originally a commercial system developed by CLT Sprachtechnologie GmbH. The rights were purchased by [Saarland University](https://www.uni-saarland.de/) in 2017, and DialogOS was subsequently open-sourced.
 
 The open-source DialogOS runs under Windows, MacOS, and Linux. This is in contrast to the commercial version, which only worked under Windows due to limitations in the speech recognizer.
+
+# Thanks!
+
+We thank ej-technologies GmbH for granting us the right to use their multi-platform installer builder [![Install4J](https://www.ej-technologies.com/images/product_banners/install4j_medium.png)](https://www.ej-technologies.com/install4j). 
